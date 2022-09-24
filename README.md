@@ -31,7 +31,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sudeep7217u"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sudeep7217u" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudeep72&show_icons=true&locale=en&layout=compact" alt="sudeep72" /></p>
+<p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudeep72)](https://sudeepdev.software)</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudeep72&show_icons=true&locale=en" alt="sudeep72" /></p>
 
