@@ -32,7 +32,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudeep72)](https://sudeepdev.software)</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudeep72&show_icons=true&locale=en" alt="sudeep72" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sudeep72&show_icons=true&locale=en" alt="sudeep72" /></p>
 
   <summary>:zap: GitHub Stats</summary>
 
