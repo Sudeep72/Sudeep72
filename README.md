@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **CyberSecurity**
 
-- 👨‍💻 All of my projects are available at [https://sudeepdev.software target="blank"](https://sudeepdev.software)
+- 👨‍💻 All of my projects are available at [https://sudeepdev.software](https://sudeepdev.software)
 
 - 📫 How to reach me **sudeep7217@gmail.com**
 
