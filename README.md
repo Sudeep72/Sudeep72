@@ -39,9 +39,9 @@
   <img align="left" alt="Sudeep's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sudeep72&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 <p>&nbsp;&nbsp;</p>
 
-# Discord
+<p># Discord
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/749582193248043119)](https://discord.com/users/749582193248043119)
+[![Discord Presence](https://lanyard.cnrad.dev/api/749582193248043119)](https://discord.com/users/749582193248043119)</p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sudeep7217u"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sudeep7217u" /></a></p><br><br><p>&nbsp;</p>
