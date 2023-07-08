@@ -7,15 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/sudeep15765761" target="blank"><img src="https://img.shields.io/twitter/follow/sudeep15765761?logo=twitter&style=for-the-badge" alt="sudeep15765761" /></a> </p>
 
-- 🔭 I’m currently working on **Collates**
-
-- 🌱 I’m currently learning **CyberSecurity**
-
-- 👨‍💻 All of my projects are available at [https://sudeepdev.netlify.app/](https://sudeepdev.netlify.app/)
-
-- 📫 How to reach me **sudeep7217@gmail.com**
-
-- ⚡ Fun fact **I’ll be back before you can pronounce actillimandataquerin altosapaoyabayadoondib!**
 
 ### Connect with me:
 [![website](./img/twitter-light.svg)](https://twitter.com/Sudeep15765761#gh-light-mode-only)
