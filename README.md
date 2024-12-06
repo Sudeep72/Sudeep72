@@ -17,6 +17,7 @@
 
 ###
 
+###
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Sudeep72/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Sudeep72/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
@@ -28,11 +29,10 @@
    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Sudeep72/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
    <img src="https://github.com/Sudeep72/github-stats/blob/master/generated/languages.svg#gh-light-mode-only">
 </picture>
-
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sudeep72&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sudeep72&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <br clear="both">
