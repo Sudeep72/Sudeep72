@@ -5,19 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/sudeep15765761" target="blank"><img src="https://img.shields.io/twitter/follow/sudeep15765761?logo=twitter&style=for-the-badge" alt="sudeep15765761" /></a> </p>
 
-<picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Sudeep72/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Sudeep72/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
-   <img src="https://github.com/Sudeep72/github-stats/blob/master/generated/overview.svg#gh-light-mode-only">
-</picture>
-
-<picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Sudeep72/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Sudeep72/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
-   <img src="https://github.com/Sudeep72/github-stats/blob/master/generated/languages.svg#gh-light-mode-only">
-</picture>
-
-
 ### Connect with me:
 [![website](./img/twitter-light.svg)](https://twitter.com/Sudeep15765761#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/Sudeep15765761#gh-dark-mode-only)
