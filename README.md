@@ -9,8 +9,8 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/Sudeep15765761#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/Sudeep15765761#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/sudeep-r-878022233#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/sudeep-r-878022233#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/sudeep72#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/sudeep72#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/sudeep__79#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/sudeep__79#gh-dark-mode-only)
@@ -34,7 +34,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sudeep72&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Sudeep72&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
+   ![Sudeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudeep72&hide=contribs,prs)
 </div>
 
 <br clear="both">
